@@ -1,0 +1,34 @@
+.Bback{
+    background: #FFB338;
+    /* transform: rotate(-180deg); */
+    height: 100vh;
+    width:100vw;
+}
+/* .Bimg{
+    position: absolute;
+    left:15.39%;
+    right:53.23%;
+    top:28.79%;
+    bottom:20.98%;
+    border:1px solid #FFFFFF;
+    transform:rotate(14.74deg)
+} */
+.Bword{
+    position: absolute;
+    width:487px;
+    height:249px;
+    left:834px;
+    top:209px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color:#FFFFFF
+}
+.Nav{
+    display: flex;
+    justify-content: space-between;
+    margin-left:5rem;
+    margin-right:5rem;
+}
